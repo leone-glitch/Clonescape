@@ -35,13 +35,3 @@ function shiftSX(arr, iniz, len){
 		arr[f]= arr[f+1]; 
 	} 
 }
-
-function testGitHub(){
-	var pp = 14; 
-}
-
-
-
-
-	
-
