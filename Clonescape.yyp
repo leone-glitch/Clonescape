@@ -38,6 +38,7 @@
     {"id":{"name":"fFont","path":"fonts/fFont/fFont.yy",},},
     {"id":{"name":"oClone","path":"objects/oClone/oClone.yy",},},
     {"id":{"name":"oDraw","path":"objects/oDraw/oDraw.yy",},},
+    {"id":{"name":"oMenu","path":"objects/oMenu/oMenu.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"sBackground","path":"sprites/sBackground/sBackground.yy",},},
